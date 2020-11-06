@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: lightcoral;
+  height: 100px;
+  line-height: 100px;
+  display: inherit;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  color: white;
+}
+
+.App-header a {
+  padding: 0 20px;
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+  text-align: center;
+}
+
+.list li .text{
+  width: 200px;
+  display: inline-block ;
+  text-align: left;
+}
+
+.addBlock{
+  text-align: center;
+  padding: 0 0 0 40px;
+}
+
+.formItem{
+  width: 120px;
+}
+
+.list li .newEmployee{
+  margin: 10px ;
+  width: 200px;
+  display: inline-block ;
+  text-align: left;
+
+}
